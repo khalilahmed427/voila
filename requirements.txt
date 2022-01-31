@@ -1,1 +1,4 @@
-bqplot
+swift-sim
+roboticstoolbox-python
+voila
+ipywidgets
